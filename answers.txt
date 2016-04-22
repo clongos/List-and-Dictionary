@@ -1,0 +1,26 @@
+1. Lists cannot store value in every element but dictionaries can.
+2. It depends on how our program will work, but when it comes to uses, dictionaries stands out. :D
+3. - we can easily manipulate the elements in lists by the use of indeces
+   - we can assign value to each element in dictionaries
+4. 16
+5. dictionary ={'name':'Chris','age':20}
+	for key in dictionary:
+    		print key
+6. dictionary ={'name':'Chris','age':20}
+	for key in dictionary:
+    		print dictionary[key]
+7. lists = [1,2,3,4,5,6]
+   lists.remove(lists[-1])
+   print lists
+8. list_1 = [1,2,3]
+   list_2 = [1,2,4]
+   if list_1 == list_2:
+       print True
+   else:
+       print False
+9. lists = [7,8,1,1,2,2,3,4,5,6]
+   print set(lists)
+10. DICT AND LIST COMPREHENSIONS are used to create list through for loop and an if condition. Through this we can create a list that has an arithmetic pattern based on our range and condition. It can also help shorten our codes.
+
+
+
